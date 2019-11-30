@@ -1,0 +1,42 @@
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe.config
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.pdb
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Form1.resources
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Properties.Resources.resources
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.exe
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.pdb
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csprojAssemblyReference.cache
+C:\Users\Beyza\Desktop\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csprojAssemblyReference.cache
+C:\Users\Beyza\Desktop\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.exe
+C:\Users\Beyza\Desktop\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.pdb
+C:\Users\Beyza\Desktop\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csprojAssemblyReference.cache
+C:\Users\Beyza\Desktop\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.exe
+C:\Users\Beyza\Desktop\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.pdb
+C:\Users\Beyza\Desktop\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe.config
+C:\Users\Beyza\Desktop\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe
+C:\Users\Beyza\Desktop\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.pdb
+C:\Users\Beyza\Desktop\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Form1.resources
+C:\Users\Beyza\Desktop\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Properties.Resources.resources
+C:\Users\Beyza\Desktop\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\2. sınıf ders notları\nesneye yönelik programlama\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe.config
+C:\Users\Beyza\Desktop\2. sınıf ders notları\nesneye yönelik programlama\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe
+C:\Users\Beyza\Desktop\2. sınıf ders notları\nesneye yönelik programlama\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.pdb
+C:\Users\Beyza\Desktop\2. sınıf ders notları\nesneye yönelik programlama\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csprojAssemblyReference.cache
+C:\Users\Beyza\Desktop\2. sınıf ders notları\nesneye yönelik programlama\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Form1.resources
+C:\Users\Beyza\Desktop\2. sınıf ders notları\nesneye yönelik programlama\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Properties.Resources.resources
+C:\Users\Beyza\Desktop\2. sınıf ders notları\nesneye yönelik programlama\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\2. sınıf ders notları\nesneye yönelik programlama\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\2. sınıf ders notları\nesneye yönelik programlama\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.exe
+C:\Users\Beyza\Desktop\2. sınıf ders notları\nesneye yönelik programlama\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.pdb
+D:\ders notları\2. sınıf ders notları\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe.config
+D:\ders notları\2. sınıf ders notları\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe
+D:\ders notları\2. sınıf ders notları\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.pdb
+D:\ders notları\2. sınıf ders notları\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csprojAssemblyReference.cache
+D:\ders notları\2. sınıf ders notları\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Form1.resources
+D:\ders notları\2. sınıf ders notları\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Properties.Resources.resources
+D:\ders notları\2. sınıf ders notları\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csproj.GenerateResource.cache
+D:\ders notları\2. sınıf ders notları\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.exe
+D:\ders notları\2. sınıf ders notları\nyp proje ödevi\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.pdb
