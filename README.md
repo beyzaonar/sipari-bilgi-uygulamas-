@@ -1,0 +1,1 @@
+# sipari-bilgi-uygulamas-
